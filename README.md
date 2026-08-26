@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=molla14&label=Profile%20views&color=0e75b6&style=flat" alt="molla14" /> </p>
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=molla12&count_public=true&tc=323&ic=323)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=molla14&count_public=true&tc=323&ic=323)
 
 
 ## 📈 Contribution Stack
@@ -20,7 +20,7 @@
 
 
 
-## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/PayWeb)
+## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://molla14.github.io/Account-pay)
 
 ![DONATE](https://i.ibb.co/Kj1BXbj1/QR.png)
 
